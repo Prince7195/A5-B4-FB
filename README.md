@@ -1,27 +1,35 @@
-# A5B4FB
+Require installation:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+    1) Angular 5 - @angular/cli 1.5.0
 
-## Development server
+Require dependency installation:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+    1) firebase
 
-## Code scaffolding
+    2) angularfire2
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    3) bootstrap v4
 
-## Build
+    4) ng-bootstrap
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Required a firebase account.
 
-## Running unit tests
+Requires Reference Links:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Firebase Account: https://firebase.google.com/
 
-## Running end-to-end tests
+npm firebase: https://www.npmjs.com/package/firebase
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+npm angularfirebase2: https://www.npmjs.com/package/angularfire2
 
-## Further help
+npm bootstrap v4: npm install --save bootstrap@next
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ng-bootstrap: npm install --save @ng-bootstrap/ng-bootstrap
+
+Refernce Links: 
+
+http://getbootstrap.com/docs/4.0/examples/starter-template/
+
+https://ng-bootstrap.github.io/#/getting-started
+
+https://ng-bootstrap.github.io/#/components/accordion/examples
