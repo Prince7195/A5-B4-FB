@@ -33,3 +33,18 @@ http://getbootstrap.com/docs/4.0/examples/starter-template/
 https://ng-bootstrap.github.io/#/getting-started
 
 https://ng-bootstrap.github.io/#/components/accordion/examples
+
+
+Publishing Procedure:
+
+Step1: Run "npm build --prod".
+
+Step2: install ghpage for angular cli by running "npm i -g angular-cli-ghpages" in cmd.
+
+Step3: push the complete code to the github repository.
+
+Step4: run ng build --prod --base-href "https://USERNAME.github.io/REPOSITORY/" command. (ng build --prod --base-href https://Prince7195.github.io/A5-B4-FB/)
+
+Step5: run ngh cmd.
+
+Step6: Check the url you mentioned.
